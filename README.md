@@ -93,11 +93,7 @@ A scalable e-commerce backend to support online stores and dashboards.
 - **CS50 – Harvard University** (Fundamentals of Computer Science)  
 ---
 
-## 🎯 Vision
 
-> "Great software is not just about functionality—it's about empathy, clarity, and resilience."
-
-I'm always learning, iterating, and trying to build things that make a difference.
 
 <!-- Optional GitHub Stats (hidden if low activity) -->
 <!--
