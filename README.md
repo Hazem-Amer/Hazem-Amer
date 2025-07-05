@@ -61,6 +61,15 @@
 
 ## 📱 Sample Projects
 
+### 🛍️ [Matager (Graduation Project)](https://github.com/Hazem-Amer/Matager-Backend)
+A scalable e-commerce backend system designed to help individuals and businesses create and manage their online stores,
+with features like product management, order tracking, and personalized recommendations.
+**Tech:** Spring Boot, MySQL, REST APIs  
+**Features:** Customized Store, Owner Portal(dashboard), Recommendation System, and clean layered architecture.
+
+
+---
+
 ### 🤝 [Hemmah](https://github.com/Hemmah-App/hemmah_android)
 Assistive tech app for the visually impaired. Live video chat with volunteers.  
 **Tech:** Java, Retrofit, WebSocket (Stomp), Twilio Video, Onion + MVVM
@@ -70,15 +79,6 @@ Assistive tech app for the visually impaired. Live video chat with volunteers.
 ### 🚀🎬 [PopFlake](https://github.com/Hazem-Amer/PopFlake)
 Movie discovery app with Rotten Tomato ratings, search, and behind-the-scenes images.  
 **Tech:** Java, MVVM, Room, Retrofit
-
----
-
-
-### 🛍️ [Matager (Graduation Project)](https://github.com/Hazem-Amer/Matager-Backend)
-A scalable e-commerce backend system designed to help individuals and businesses create and manage their online stores,
-with features like product management, order tracking, and personalized recommendations.
-**Tech:** Spring Boot, MySQL, REST APIs  
-**Features:** Customized Store, Owner Portal(dashboard), Recommendation System, and clean layered architecture.
 
 ---
 
