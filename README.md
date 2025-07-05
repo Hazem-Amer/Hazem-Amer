@@ -75,9 +75,10 @@ Movie discovery app with Rotten Tomato ratings, search, and behind-the-scenes im
 
 
 ### 🛍️ [Matager (Graduation Project)](https://github.com/Hazem-Amer/Matager-Backend)
-A scalable e-commerce backend to support online stores and dashboards.  
+A scalable e-commerce backend system designed to help individuals and businesses create and manage their online stores,
+with features like product management, order tracking, and personalized recommendations.
 **Tech:** Spring Boot, MySQL, REST APIs  
-**Features:** CRUD, Order/Wishlist, Recommendations, Owner portal
+**Features:** Customized Store, Owner Portal(dashboard), Recommendation System, and clean layered architecture.
 
 ---
 
