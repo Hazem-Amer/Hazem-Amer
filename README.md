@@ -72,13 +72,13 @@ with features like product management, order tracking, and personalized recommen
 
 ### 🤝 [Hemmah](https://github.com/Hemmah-App/hemmah_android)
 Assistive tech app for the visually impaired. Live video chat with volunteers.  
-**Tech:** Java, Retrofit, WebSocket (Stomp), Twilio Video, Onion + MVVM
+**Tech:** Android SDK, Java, Retrofit, WebSocket (Stomp), Twilio Video, Onion Clean Architecture + MVVM
 
 ---
 
 ### 🚀🎬 [PopFlake](https://github.com/Hazem-Amer/PopFlake)
 Movie discovery app with Rotten Tomato ratings, search, and behind-the-scenes images.  
-**Tech:** Java, MVVM, Room, Retrofit
+**Tech:** Android SDK, Java, Room, Retrofit, Onion Clean Architecture + MVVM
 
 ---
 
